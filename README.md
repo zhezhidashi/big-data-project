@@ -1,8 +1,8 @@
 # Big Data Project
 
-详细文档请见《基于数据编排系统Alluxio的场景应用与分析--技术文档.pdf》，此文档全面介绍工作，详细讲解完整技术栈，强烈建议阅读。
+详细文档请见《基于数据编排系统Alluxio的场景应用与分析技术文档.pdf》，此文档全面介绍工作，详细讲解完整技术栈，强烈建议阅读。
 
-PPT请见《基于数据编排系统Alluxio的场景应用与分析——结项PPT.pptx》
+PPT请见《基于数据编排系统Alluxio的场景应用与分析结项PPT.pptx》
 
 分工请见《分工.docx》
 
@@ -35,7 +35,7 @@ hdp.sh start
 
 
 成功启动截图：
-![成功启动截图](images/img-01.png)
+![成功启动截图](images/img01.png)
 
 
 
