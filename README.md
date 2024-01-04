@@ -1,10 +1,10 @@
 # Big Data Project
 
-详细文档请见《基于数据编排系统Alluxio的场景应用与分析技术文档.pdf》，此文档全面介绍工作，详细讲解完整技术栈，强烈建议阅读。
+详细文档请见[基于数据编排系统Alluxio的场景应用与分析技术文档](https://github.com/zhezhidashi/big-data-project/blob/main/%E5%9F%BA%E4%BA%8E%E6%95%B0%E6%8D%AE%E7%BC%96%E6%8E%92%E7%B3%BB%E7%BB%9FAlluxio%E7%9A%84%E5%9C%BA%E6%99%AF%E5%BA%94%E7%94%A8%E4%B8%8E%E5%88%86%E6%9E%90%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3.pdf)，此文档全面介绍工作，详细讲解完整技术栈，强烈建议阅读。
 
-PPT请见《基于数据编排系统Alluxio的场景应用与分析结项PPT.pptx》
+PPT请见[基于数据编排系统Alluxio的场景应用与分析结项PPT](https://github.com/zhezhidashi/big-data-project/blob/main/%E5%9F%BA%E4%BA%8E%E6%95%B0%E6%8D%AE%E7%BC%96%E6%8E%92%E7%B3%BB%E7%BB%9FAlluxio%E7%9A%84%E5%9C%BA%E6%99%AF%E5%BA%94%E7%94%A8%E4%B8%8E%E5%88%86%E6%9E%90%E7%BB%93%E9%A1%B9PPT.pptx)
 
-分工请见《分工.docx》
+分工请见[分工](https://github.com/zhezhidashi/big-data-project/blob/main/%E5%88%86%E5%B7%A5.docx)
 
 **环境要求：需要不少于64GB内存，否则无法顺利启动整体环境！**
 
